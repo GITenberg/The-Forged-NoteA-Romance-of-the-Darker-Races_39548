@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39912
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Micheaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39548#The-Forged-NoteA-Romance-of-the-Darker-Races
 gutenberg_issued: '2012-04-27'
 gutenberg_type: Text
 identifiers:
