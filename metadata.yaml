@@ -1,0 +1,34 @@
+_repo: The-Forged-NoteA-Romance-of-the-Darker-Races_39548
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Heller, C. W.
+    alias: Heller, C.W.
+    gutenberg_agent_id: '40076'
+    url: http://www.gutenberg.org/2009/agents/40076
+covers:
+- cover_type: archival
+  image_path: 39548-h/images/i001_dust_cover.jpg
+creator:
+  author:
+    agent_name: Micheaux, Oscar
+    birthdate: 1884
+    deathdate: 1951
+    gutenberg_agent_id: '39912'
+    url: http://www.gutenberg.org/2009/agents/39912
+    wikipedia: http://en.wikipedia.org/wiki/Oscar_Micheaux
+description: ''
+gutenberg_issued: '2012-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39548'
+  lccn: '15026847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+title: 'The Forged Note: A Romance of the Darker Races'
+url: http://www.gutenberg.org/ebooks/39548
